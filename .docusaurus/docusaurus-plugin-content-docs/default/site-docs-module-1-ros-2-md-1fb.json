@@ -5,7 +5,7 @@
   "source": "@site/docs/module-1-ros2.md",
   "sourceDirName": ".",
   "slug": "/module-1-ros2",
-  "permalink": "/Robotics-Book/module-1-ros2",
+  "permalink": "/module-1-ros2",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Course Overview",
-    "permalink": "/Robotics-Book/course-overview"
+    "permalink": "/course-overview"
   },
   "next": {
     "title": "Module 2: Gazebo & Unity",
-    "permalink": "/Robotics-Book/module-2-gazebo-unity"
+    "permalink": "/module-2-gazebo-unity"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/physical-ai-importance.md",
   "sourceDirName": ".",
   "slug": "/physical-ai-importance",
-  "permalink": "/Robotics-Book/physical-ai-importance",
+  "permalink": "/physical-ai-importance",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Module 4: VLA",
-    "permalink": "/Robotics-Book/module-4-vla"
+    "permalink": "/module-4-vla"
   },
   "next": {
     "title": "Learning Outcomes",
-    "permalink": "/Robotics-Book/learning-outcomes"
+    "permalink": "/learning-outcomes"
   }
 }

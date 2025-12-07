@@ -1,88 +1,87 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/Robotics-Book/",
+      "path": "/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/Robotics-Book/",
-          "mainDocId": "preface",
+          "path": "/",
+          "mainDocId": "introduction",
           "docs": [
             {
               "id": "assessments",
-              "path": "/Robotics-Book/assessments",
+              "path": "/assessments",
               "sidebar": "docs"
             },
             {
               "id": "cloud-lab",
-              "path": "/Robotics-Book/cloud-lab",
+              "path": "/cloud-lab",
               "sidebar": "docs"
             },
             {
               "id": "course-overview",
-              "path": "/Robotics-Book/course-overview",
+              "path": "/course-overview",
               "sidebar": "docs"
             },
             {
               "id": "hardware-requirements",
-              "path": "/Robotics-Book/hardware-requirements",
+              "path": "/hardware-requirements",
               "sidebar": "docs"
             },
             {
               "id": "introduction",
-              "path": "/Robotics-Book/introduction",
+              "path": "/introduction",
               "sidebar": "docs"
             },
             {
               "id": "lab-architecture",
-              "path": "/Robotics-Book/lab-architecture",
+              "path": "/lab-architecture",
               "sidebar": "docs"
             },
             {
               "id": "learning-outcomes",
-              "path": "/Robotics-Book/learning-outcomes",
+              "path": "/learning-outcomes",
               "sidebar": "docs"
             },
             {
               "id": "module-1-ros2",
-              "path": "/Robotics-Book/module-1-ros2",
+              "path": "/module-1-ros2",
               "sidebar": "docs"
             },
             {
               "id": "module-2-gazebo-unity",
-              "path": "/Robotics-Book/module-2-gazebo-unity",
+              "path": "/module-2-gazebo-unity",
               "sidebar": "docs"
             },
             {
               "id": "module-3-isaac",
-              "path": "/Robotics-Book/module-3-isaac",
+              "path": "/module-3-isaac",
               "sidebar": "docs"
             },
             {
               "id": "module-4-vla",
-              "path": "/Robotics-Book/module-4-vla",
+              "path": "/module-4-vla",
               "sidebar": "docs"
             },
             {
               "id": "physical-ai-importance",
-              "path": "/Robotics-Book/physical-ai-importance",
+              "path": "/physical-ai-importance",
               "sidebar": "docs"
             },
             {
               "id": "preface",
-              "path": "/Robotics-Book/preface",
-              "sidebar": "docs"
+              "path": "/preface"
             },
             {
               "id": "student-kit",
-              "path": "/Robotics-Book/student-kit",
+              "path": "/student-kit",
               "sidebar": "docs"
             },
             {
               "id": "weekly-breakdown",
-              "path": "/Robotics-Book/weekly-breakdown",
+              "path": "/weekly-breakdown",
               "sidebar": "docs"
             }
           ],
@@ -90,8 +89,8 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/Robotics-Book/preface",
-                "label": "preface"
+                "path": "/introduction",
+                "label": "introduction"
               }
             }
           }

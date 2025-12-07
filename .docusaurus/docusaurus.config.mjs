@@ -8,7 +8,7 @@ export default {
   "tagline": "Build Humanoid Robots That See, Think, and Act",
   "favicon": "img/favicon.ico",
   "url": "https://your-github-username.github.io",
-  "baseUrl": "/Robotics-Book/",
+  "baseUrl": "/",
   "organizationName": "your-github-username",
   "projectName": "Robotics-Book",
   "i18n": {

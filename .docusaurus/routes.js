@@ -3,109 +3,143 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/Robotics-Book/',
-    component: ComponentCreator('/Robotics-Book/', 'a5d'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
     exact: true
   },
   {
-    path: '/Robotics-Book/',
-    component: ComponentCreator('/Robotics-Book/', 'f2e'),
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
+    path: '/',
+    component: ComponentCreator('/', '2e1'),
+    exact: true
+  },
+  {
+    path: '/',
+    component: ComponentCreator('/', '0ff'),
     routes: [
       {
-        path: '/Robotics-Book/',
-        component: ComponentCreator('/Robotics-Book/', '6ba'),
+        path: '/',
+        component: ComponentCreator('/', 'ed1'),
         routes: [
           {
-            path: '/Robotics-Book/',
-            component: ComponentCreator('/Robotics-Book/', '82c'),
+            path: '/',
+            component: ComponentCreator('/', '4d8'),
             routes: [
               {
-                path: '/Robotics-Book/assessments',
-                component: ComponentCreator('/Robotics-Book/assessments', 'a38'),
+                path: '/assessments',
+                component: ComponentCreator('/assessments', '7b7'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/Robotics-Book/cloud-lab',
-                component: ComponentCreator('/Robotics-Book/cloud-lab', '7c8'),
+                path: '/cloud-lab',
+                component: ComponentCreator('/cloud-lab', '636'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/Robotics-Book/course-overview',
-                component: ComponentCreator('/Robotics-Book/course-overview', 'e31'),
+                path: '/course-overview',
+                component: ComponentCreator('/course-overview', 'd0f'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/Robotics-Book/hardware-requirements',
-                component: ComponentCreator('/Robotics-Book/hardware-requirements', 'cde'),
+                path: '/hardware-requirements',
+                component: ComponentCreator('/hardware-requirements', 'e07'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/Robotics-Book/introduction',
-                component: ComponentCreator('/Robotics-Book/introduction', 'a25'),
+                path: '/introduction',
+                component: ComponentCreator('/introduction', 'f62'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/Robotics-Book/lab-architecture',
-                component: ComponentCreator('/Robotics-Book/lab-architecture', '8d7'),
+                path: '/lab-architecture',
+                component: ComponentCreator('/lab-architecture', 'b5a'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/Robotics-Book/learning-outcomes',
-                component: ComponentCreator('/Robotics-Book/learning-outcomes', '3f9'),
+                path: '/learning-outcomes',
+                component: ComponentCreator('/learning-outcomes', 'cc8'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/Robotics-Book/module-1-ros2',
-                component: ComponentCreator('/Robotics-Book/module-1-ros2', 'b84'),
+                path: '/module-1-ros2',
+                component: ComponentCreator('/module-1-ros2', '7de'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/Robotics-Book/module-2-gazebo-unity',
-                component: ComponentCreator('/Robotics-Book/module-2-gazebo-unity', '52f'),
+                path: '/module-2-gazebo-unity',
+                component: ComponentCreator('/module-2-gazebo-unity', 'ae3'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/Robotics-Book/module-3-isaac',
-                component: ComponentCreator('/Robotics-Book/module-3-isaac', '215'),
+                path: '/module-3-isaac',
+                component: ComponentCreator('/module-3-isaac', '472'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/Robotics-Book/module-4-vla',
-                component: ComponentCreator('/Robotics-Book/module-4-vla', '571'),
+                path: '/module-4-vla',
+                component: ComponentCreator('/module-4-vla', '5d8'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/Robotics-Book/physical-ai-importance',
-                component: ComponentCreator('/Robotics-Book/physical-ai-importance', 'a47'),
+                path: '/physical-ai-importance',
+                component: ComponentCreator('/physical-ai-importance', 'c34'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/Robotics-Book/preface',
-                component: ComponentCreator('/Robotics-Book/preface', '36d'),
+                path: '/preface',
+                component: ComponentCreator('/preface', '72e'),
+                exact: true
+              },
+              {
+                path: '/student-kit',
+                component: ComponentCreator('/student-kit', 'b89'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/Robotics-Book/student-kit',
-                component: ComponentCreator('/Robotics-Book/student-kit', 'd40'),
-                exact: true,
-                sidebar: "docs"
-              },
-              {
-                path: '/Robotics-Book/weekly-breakdown',
-                component: ComponentCreator('/Robotics-Book/weekly-breakdown', 'abf'),
+                path: '/weekly-breakdown',
+                component: ComponentCreator('/weekly-breakdown', 'a2d'),
                 exact: true,
                 sidebar: "docs"
               }

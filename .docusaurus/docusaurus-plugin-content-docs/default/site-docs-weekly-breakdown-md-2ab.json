@@ -5,7 +5,7 @@
   "source": "@site/docs/weekly-breakdown.md",
   "sourceDirName": ".",
   "slug": "/weekly-breakdown",
-  "permalink": "/Robotics-Book/weekly-breakdown",
+  "permalink": "/weekly-breakdown",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Learning Outcomes",
-    "permalink": "/Robotics-Book/learning-outcomes"
+    "permalink": "/learning-outcomes"
   },
   "next": {
     "title": "Assessments",
-    "permalink": "/Robotics-Book/assessments"
+    "permalink": "/assessments"
   }
 }

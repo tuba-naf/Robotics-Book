@@ -5,7 +5,7 @@
   "source": "@site/docs/assessments.md",
   "sourceDirName": ".",
   "slug": "/assessments",
-  "permalink": "/Robotics-Book/assessments",
+  "permalink": "/assessments",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Weekly Breakdown",
-    "permalink": "/Robotics-Book/weekly-breakdown"
+    "permalink": "/weekly-breakdown"
   },
   "next": {
     "title": "Hardware Requirements",
-    "permalink": "/Robotics-Book/hardware-requirements"
+    "permalink": "/hardware-requirements"
   }
 }

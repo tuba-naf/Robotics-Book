@@ -5,7 +5,7 @@
   "source": "@site/docs/introduction.md",
   "sourceDirName": ".",
   "slug": "/introduction",
-  "permalink": "/Robotics-Book/introduction",
+  "permalink": "/introduction",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -15,12 +15,8 @@
     "title": "Introduction"
   },
   "sidebar": "docs",
-  "previous": {
-    "title": "Preface",
-    "permalink": "/Robotics-Book/preface"
-  },
   "next": {
     "title": "Course Overview",
-    "permalink": "/Robotics-Book/course-overview"
+    "permalink": "/course-overview"
   }
 }

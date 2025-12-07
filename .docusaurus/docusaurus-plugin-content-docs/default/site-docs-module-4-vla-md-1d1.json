@@ -5,7 +5,7 @@
   "source": "@site/docs/module-4-vla.md",
   "sourceDirName": ".",
   "slug": "/module-4-vla",
-  "permalink": "/Robotics-Book/module-4-vla",
+  "permalink": "/module-4-vla",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Module 3: Isaac",
-    "permalink": "/Robotics-Book/module-3-isaac"
+    "permalink": "/module-3-isaac"
   },
   "next": {
     "title": "The Importance of Physical AI",
-    "permalink": "/Robotics-Book/physical-ai-importance"
+    "permalink": "/physical-ai-importance"
   }
 }

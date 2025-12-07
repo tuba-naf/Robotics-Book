@@ -1,82 +1,125 @@
 {
-  "/Robotics-Book/-a5d": {
-    "__comp": "c4f5d8e4",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a7456010"
-    },
-    "config": "5e9f5e1a"
-  },
-  "/Robotics-Book/-f2e": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-22b"
     }
   },
-  "/Robotics-Book/-6ba": {
-    "__comp": "a7bd4aaa",
-    "__props": "290a33d7"
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-22b"
+    }
   },
-  "/Robotics-Book/-82c": {
-    "__comp": "a94703ab"
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-22b"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
   },
-  "/Robotics-Book/assessments-a38": {
-    "__comp": "17896441",
-    "content": "d16c5452"
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-22b"
+    }
   },
-  "/Robotics-Book/cloud-lab-7c8": {
-    "__comp": "17896441",
-    "content": "5fdc8fd9"
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-22b"
+    }
   },
-  "/Robotics-Book/course-overview-e31": {
-    "__comp": "17896441",
-    "content": "b16f233a"
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-22b"
+    }
   },
-  "/Robotics-Book/hardware-requirements-cde": {
-    "__comp": "17896441",
-    "content": "122dbed4"
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---robotics-book-docusaurus-debugb-38-22b"
+    }
   },
-  "/Robotics-Book/introduction-a25": {
-    "__comp": "17896441",
-    "content": "a09c2993"
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---robotics-book-a-74-051"
+    },
+    "config": "config---robotics-book-5-e-9-7c9"
   },
-  "/Robotics-Book/lab-architecture-8d7": {
-    "__comp": "17896441",
-    "content": "4e42cbb5"
+  "/-0ff": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---robotics-book-aba-ccc"
+    }
   },
-  "/Robotics-Book/learning-outcomes-3f9": {
-    "__comp": "17896441",
-    "content": "8b222800"
+  "/-ed1": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
   },
-  "/Robotics-Book/module-1-ros2-b84": {
-    "__comp": "17896441",
-    "content": "1fbad63b"
+  "/-4d8": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/Robotics-Book/module-2-gazebo-unity-52f": {
-    "__comp": "17896441",
-    "content": "e6bf2f51"
+  "/assessments-7b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-assessmentsd-16-661"
   },
-  "/Robotics-Book/module-3-isaac-215": {
-    "__comp": "17896441",
-    "content": "dff92869"
+  "/cloud-lab-636": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-cloud-lab-5-fd-439"
   },
-  "/Robotics-Book/module-4-vla-571": {
-    "__comp": "17896441",
-    "content": "1d1d0347"
+  "/course-overview-d0f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-course-overviewb-16-55a"
   },
-  "/Robotics-Book/physical-ai-importance-a47": {
-    "__comp": "17896441",
-    "content": "dc2bb93d"
+  "/hardware-requirements-e07": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-hardware-requirements-122-885"
   },
-  "/Robotics-Book/preface-36d": {
-    "__comp": "17896441",
-    "content": "e31563f4"
+  "/introduction-f62": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-introductiona-09-989"
   },
-  "/Robotics-Book/student-kit-d40": {
-    "__comp": "17896441",
-    "content": "0dc79b0a"
+  "/lab-architecture-b5a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-lab-architecture-4-e-4-583"
   },
-  "/Robotics-Book/weekly-breakdown-abf": {
-    "__comp": "17896441",
-    "content": "2ab8ccb5"
+  "/learning-outcomes-cc8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-learning-outcomes-8-b-2-848"
+  },
+  "/module-1-ros2-7de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-module-1-ros-21-fb-7db"
+  },
+  "/module-2-gazebo-unity-ae3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-module-2-gazebo-unitye-6-b-842"
+  },
+  "/module-3-isaac-472": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-module-3-isaacdff-7f1"
+  },
+  "/module-4-vla-5d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-module-4-vla-1-d-1-665"
+  },
+  "/physical-ai-importance-c34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-physical-ai-importancedc-2-69d"
+  },
+  "/preface-72e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-prefacee-31-7b2"
+  },
+  "/student-kit-b89": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-student-kit-0-dc-9ce"
+  },
+  "/weekly-breakdown-a2d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---robotics-book-weekly-breakdown-2-ab-bb2"
   }
 }

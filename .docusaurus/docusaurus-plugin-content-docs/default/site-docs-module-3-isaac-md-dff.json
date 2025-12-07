@@ -5,7 +5,7 @@
   "source": "@site/docs/module-3-isaac.md",
   "sourceDirName": ".",
   "slug": "/module-3-isaac",
-  "permalink": "/Robotics-Book/module-3-isaac",
+  "permalink": "/module-3-isaac",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Module 2: Gazebo & Unity",
-    "permalink": "/Robotics-Book/module-2-gazebo-unity"
+    "permalink": "/module-2-gazebo-unity"
   },
   "next": {
     "title": "Module 4: VLA",
-    "permalink": "/Robotics-Book/module-4-vla"
+    "permalink": "/module-4-vla"
   }
 }

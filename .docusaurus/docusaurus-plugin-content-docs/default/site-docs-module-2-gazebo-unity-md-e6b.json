@@ -5,7 +5,7 @@
   "source": "@site/docs/module-2-gazebo-unity.md",
   "sourceDirName": ".",
   "slug": "/module-2-gazebo-unity",
-  "permalink": "/Robotics-Book/module-2-gazebo-unity",
+  "permalink": "/module-2-gazebo-unity",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Module 1: ROS2",
-    "permalink": "/Robotics-Book/module-1-ros2"
+    "permalink": "/module-1-ros2"
   },
   "next": {
     "title": "Module 3: Isaac",
-    "permalink": "/Robotics-Book/module-3-isaac"
+    "permalink": "/module-3-isaac"
   }
 }
