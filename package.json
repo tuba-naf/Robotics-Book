@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "prebuild": "chmod +x node_modules/.bin/docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",

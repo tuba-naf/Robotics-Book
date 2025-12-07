@@ -1,0 +1,343 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "0dc79b0a": [
+      653
+    ],
+    "122dbed4": [
+      367
+    ],
+    "1d1d0347": [
+      71
+    ],
+    "1fbad63b": [
+      688
+    ],
+    "290a33d7": [
+      164
+    ],
+    "2ab8ccb5": [
+      471
+    ],
+    "4e42cbb5": [
+      876
+    ],
+    "5e95c892": [
+      647
+    ],
+    "5fdc8fd9": [
+      50
+    ],
+    "8b222800": [
+      151
+    ],
+    "a09c2993": [
+      899
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "b16f233a": [
+      29
+    ],
+    "c4f5d8e4": [
+      634
+    ],
+    "d16c5452": [
+      765
+    ],
+    "dc2bb93d": [
+      122
+    ],
+    "dff92869": [
+      719
+    ],
+    "e31563f4": [
+      686
+    ],
+    "e6bf2f51": [
+      484
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "29": {
+      "js": [
+        {
+          "file": "assets/js/b16f233a.abe8ceb0.js",
+          "hash": "2e474329f19f7e8a",
+          "publicPath": "/Robotics-Book/assets/js/b16f233a.abe8ceb0.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.dc5e1eaf.js",
+          "hash": "cdb6114477422b4d",
+          "publicPath": "/Robotics-Book/assets/js/a94703ab.dc5e1eaf.js"
+        }
+      ]
+    },
+    "50": {
+      "js": [
+        {
+          "file": "assets/js/5fdc8fd9.ad089a15.js",
+          "hash": "150cfe5417f720c4",
+          "publicPath": "/Robotics-Book/assets/js/5fdc8fd9.ad089a15.js"
+        }
+      ]
+    },
+    "71": {
+      "js": [
+        {
+          "file": "assets/js/1d1d0347.1432fe61.js",
+          "hash": "3bf95ba30b217298",
+          "publicPath": "/Robotics-Book/assets/js/1d1d0347.1432fe61.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.32b2477b.js",
+          "hash": "e7efbd255feb2330",
+          "publicPath": "/Robotics-Book/assets/js/a7bd4aaa.32b2477b.js"
+        }
+      ]
+    },
+    "122": {
+      "js": [
+        {
+          "file": "assets/js/dc2bb93d.3b3df4e7.js",
+          "hash": "35b186a7d27b955a",
+          "publicPath": "/Robotics-Book/assets/js/dc2bb93d.3b3df4e7.js"
+        }
+      ]
+    },
+    "151": {
+      "js": [
+        {
+          "file": "assets/js/8b222800.4ced378c.js",
+          "hash": "696768f9279aa12f",
+          "publicPath": "/Robotics-Book/assets/js/8b222800.4ced378c.js"
+        }
+      ]
+    },
+    "164": {
+      "js": [
+        {
+          "file": "assets/js/290a33d7.e724483e.js",
+          "hash": "218ee45b740abbc2",
+          "publicPath": "/Robotics-Book/assets/js/290a33d7.e724483e.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.4e446c08.js",
+          "hash": "ae094811fd81d008",
+          "publicPath": "/Robotics-Book/assets/js/a7456010.4e446c08.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.6eb44f23.js",
+          "hash": "e9a23bd73a3511ac",
+          "publicPath": "/Robotics-Book/assets/js/237.6eb44f23.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.2fb9a12d.js",
+          "hash": "18e5db623ff3a8c7",
+          "publicPath": "/Robotics-Book/assets/js/runtime~main.2fb9a12d.js"
+        }
+      ]
+    },
+    "367": {
+      "js": [
+        {
+          "file": "assets/js/122dbed4.a5dd2f8e.js",
+          "hash": "85f17f4ecdfdf273",
+          "publicPath": "/Robotics-Book/assets/js/122dbed4.a5dd2f8e.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.2abfb8b0.js",
+          "hash": "eea20586fc10e72f",
+          "publicPath": "/Robotics-Book/assets/js/17896441.2abfb8b0.js"
+        }
+      ]
+    },
+    "471": {
+      "js": [
+        {
+          "file": "assets/js/2ab8ccb5.55df2af6.js",
+          "hash": "344ad0b1eb8c5499",
+          "publicPath": "/Robotics-Book/assets/js/2ab8ccb5.55df2af6.js"
+        }
+      ]
+    },
+    "484": {
+      "js": [
+        {
+          "file": "assets/js/e6bf2f51.a515af28.js",
+          "hash": "a18dae6ec268c8a7",
+          "publicPath": "/Robotics-Book/assets/js/e6bf2f51.a515af28.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.39b0a9dd.js",
+          "hash": "f232174080eb361e",
+          "publicPath": "/Robotics-Book/assets/js/c4f5d8e4.39b0a9dd.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.23f2b65f.js",
+          "hash": "5d18eda95b633979",
+          "publicPath": "/Robotics-Book/assets/js/5e95c892.23f2b65f.js"
+        }
+      ]
+    },
+    "653": {
+      "js": [
+        {
+          "file": "assets/js/0dc79b0a.2a7f5645.js",
+          "hash": "cf3b256094906f32",
+          "publicPath": "/Robotics-Book/assets/js/0dc79b0a.2a7f5645.js"
+        }
+      ]
+    },
+    "686": {
+      "js": [
+        {
+          "file": "assets/js/e31563f4.cf508151.js",
+          "hash": "15cd0494836ebe1e",
+          "publicPath": "/Robotics-Book/assets/js/e31563f4.cf508151.js"
+        }
+      ]
+    },
+    "688": {
+      "js": [
+        {
+          "file": "assets/js/1fbad63b.ac08052c.js",
+          "hash": "13cc99a53e088b9a",
+          "publicPath": "/Robotics-Book/assets/js/1fbad63b.ac08052c.js"
+        }
+      ]
+    },
+    "719": {
+      "js": [
+        {
+          "file": "assets/js/dff92869.4b68d0e0.js",
+          "hash": "0e40dec0cc1e0a8c",
+          "publicPath": "/Robotics-Book/assets/js/dff92869.4b68d0e0.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.9813309f.js",
+          "hash": "7657d688336ddd85",
+          "publicPath": "/Robotics-Book/assets/js/aba21aa0.9813309f.js"
+        }
+      ]
+    },
+    "765": {
+      "js": [
+        {
+          "file": "assets/js/d16c5452.5bfcc2c6.js",
+          "hash": "5ca7e2e9bc5a82fc",
+          "publicPath": "/Robotics-Book/assets/js/d16c5452.5bfcc2c6.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.896fe827.js",
+          "hash": "7183b702403b3afb",
+          "publicPath": "/Robotics-Book/assets/js/main.896fe827.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.7bfdbc5b.css",
+          "hash": "cf5bd65dbef44d5d",
+          "publicPath": "/Robotics-Book/assets/css/styles.7bfdbc5b.css"
+        }
+      ]
+    },
+    "876": {
+      "js": [
+        {
+          "file": "assets/js/4e42cbb5.737ee7c7.js",
+          "hash": "ac5754f977199327",
+          "publicPath": "/Robotics-Book/assets/js/4e42cbb5.737ee7c7.js"
+        }
+      ]
+    },
+    "899": {
+      "js": [
+        {
+          "file": "assets/js/a09c2993.bb0af0e5.js",
+          "hash": "b020b4009802ffbe",
+          "publicPath": "/Robotics-Book/assets/js/a09c2993.bb0af0e5.js"
+        }
+      ]
+    }
+  }
+}
