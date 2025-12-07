@@ -1,0 +1,18 @@
+{
+  "id": "introduction",
+  "title": "Introduction",
+  "description": "",
+  "source": "@site/docs/📘 Introduction.md",
+  "sourceDirName": ".",
+  "slug": "/introduction",
+  "permalink": "/Robotics-Book/introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction"
+  },
+  "sidebar": "docs"
+}

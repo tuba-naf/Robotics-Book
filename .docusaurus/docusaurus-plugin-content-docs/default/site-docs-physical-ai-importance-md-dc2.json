@@ -1,0 +1,26 @@
+{
+  "id": "physical-ai-importance",
+  "title": "The Importance of Physical AI",
+  "description": "This section discusses the significance of Physical AI.",
+  "source": "@site/docs/physical-ai-importance.md",
+  "sourceDirName": ".",
+  "slug": "/physical-ai-importance",
+  "permalink": "/Robotics-Book/physical-ai-importance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "physical-ai-importance",
+    "title": "The Importance of Physical AI"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Module 4: VLA",
+    "permalink": "/Robotics-Book/module-4-vla"
+  },
+  "next": {
+    "title": "Learning Outcomes",
+    "permalink": "/Robotics-Book/learning-outcomes"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "course-overview",
+  "title": "Course Overview",
+  "description": "This section provides an overview of the course content and structure.",
+  "source": "@site/docs/course-overview.md",
+  "sourceDirName": ".",
+  "slug": "/course-overview",
+  "permalink": "/Robotics-Book/course-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "course-overview",
+    "title": "Course Overview"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/Robotics-Book/introduction"
+  },
+  "next": {
+    "title": "Module 1: ROS2",
+    "permalink": "/Robotics-Book/module-1-ros2"
+  }
+}

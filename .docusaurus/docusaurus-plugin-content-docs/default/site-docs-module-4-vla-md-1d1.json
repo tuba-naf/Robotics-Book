@@ -1,0 +1,26 @@
+{
+  "id": "module-4-vla",
+  "title": "Module 4: VLA",
+  "description": "This module explores Visual-Language-Action (VLA) models in robotics.",
+  "source": "@site/docs/module-4-vla.md",
+  "sourceDirName": ".",
+  "slug": "/module-4-vla",
+  "permalink": "/Robotics-Book/module-4-vla",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "module-4-vla",
+    "title": "Module 4: VLA"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Module 3: Isaac",
+    "permalink": "/Robotics-Book/module-3-isaac"
+  },
+  "next": {
+    "title": "The Importance of Physical AI",
+    "permalink": "/Robotics-Book/physical-ai-importance"
+  }
+}

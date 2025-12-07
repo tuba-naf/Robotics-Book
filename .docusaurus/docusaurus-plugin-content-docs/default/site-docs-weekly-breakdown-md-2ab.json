@@ -1,0 +1,26 @@
+{
+  "id": "weekly-breakdown",
+  "title": "Weekly Breakdown",
+  "description": "This section outlines the course content on a weekly basis.",
+  "source": "@site/docs/weekly-breakdown.md",
+  "sourceDirName": ".",
+  "slug": "/weekly-breakdown",
+  "permalink": "/Robotics-Book/weekly-breakdown",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "weekly-breakdown",
+    "title": "Weekly Breakdown"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Learning Outcomes",
+    "permalink": "/Robotics-Book/learning-outcomes"
+  },
+  "next": {
+    "title": "Assessments",
+    "permalink": "/Robotics-Book/assessments"
+  }
+}

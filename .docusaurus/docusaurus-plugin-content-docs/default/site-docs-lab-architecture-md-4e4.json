@@ -1,0 +1,26 @@
+{
+  "id": "lab-architecture",
+  "title": "Lab Architecture",
+  "description": "This section describes the architecture of the lab environment.",
+  "source": "@site/docs/lab-architecture.md",
+  "sourceDirName": ".",
+  "slug": "/lab-architecture",
+  "permalink": "/Robotics-Book/lab-architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lab-architecture",
+    "title": "Lab Architecture"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Hardware Requirements",
+    "permalink": "/Robotics-Book/hardware-requirements"
+  },
+  "next": {
+    "title": "Cloud Lab",
+    "permalink": "/Robotics-Book/cloud-lab"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "assessments",
+  "title": "Assessments",
+  "description": "This section details the assessment methods for the course.",
+  "source": "@site/docs/assessments.md",
+  "sourceDirName": ".",
+  "slug": "/assessments",
+  "permalink": "/Robotics-Book/assessments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "assessments",
+    "title": "Assessments"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Weekly Breakdown",
+    "permalink": "/Robotics-Book/weekly-breakdown"
+  },
+  "next": {
+    "title": "Hardware Requirements",
+    "permalink": "/Robotics-Book/hardware-requirements"
+  }
+}

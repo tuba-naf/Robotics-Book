@@ -1,0 +1,26 @@
+{
+  "id": "cloud-lab",
+  "title": "Cloud Lab",
+  "description": "This section provides information about the cloud lab setup.",
+  "source": "@site/docs/cloud-lab.md",
+  "sourceDirName": ".",
+  "slug": "/cloud-lab",
+  "permalink": "/Robotics-Book/cloud-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cloud-lab",
+    "title": "Cloud Lab"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Lab Architecture",
+    "permalink": "/Robotics-Book/lab-architecture"
+  },
+  "next": {
+    "title": "Student Kit",
+    "permalink": "/Robotics-Book/student-kit"
+  }
+}

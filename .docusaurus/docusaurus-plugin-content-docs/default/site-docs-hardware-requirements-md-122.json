@@ -1,0 +1,26 @@
+{
+  "id": "hardware-requirements",
+  "title": "Hardware Requirements",
+  "description": "This section lists the recommended hardware for the course.",
+  "source": "@site/docs/hardware-requirements.md",
+  "sourceDirName": ".",
+  "slug": "/hardware-requirements",
+  "permalink": "/Robotics-Book/hardware-requirements",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "hardware-requirements",
+    "title": "Hardware Requirements"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Assessments",
+    "permalink": "/Robotics-Book/assessments"
+  },
+  "next": {
+    "title": "Lab Architecture",
+    "permalink": "/Robotics-Book/lab-architecture"
+  }
+}

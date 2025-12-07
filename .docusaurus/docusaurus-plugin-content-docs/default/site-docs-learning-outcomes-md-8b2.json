@@ -1,0 +1,26 @@
+{
+  "id": "learning-outcomes",
+  "title": "Learning Outcomes",
+  "description": "Upon completion of this course, students will be able to:",
+  "source": "@site/docs/learning-outcomes.md",
+  "sourceDirName": ".",
+  "slug": "/learning-outcomes",
+  "permalink": "/Robotics-Book/learning-outcomes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "learning-outcomes",
+    "title": "Learning Outcomes"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "The Importance of Physical AI",
+    "permalink": "/Robotics-Book/physical-ai-importance"
+  },
+  "next": {
+    "title": "Weekly Breakdown",
+    "permalink": "/Robotics-Book/weekly-breakdown"
+  }
+}

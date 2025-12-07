@@ -1,0 +1,26 @@
+{
+  "id": "introduction",
+  "title": "Introduction",
+  "description": "Imagine you created a super-smart AI — it can reason, understand language, make plans, and even predict outcomes. On a computer screen, it’s powerful. But it’s stuck. It cannot walk across a room to pick up a cup. It cannot push a button or open a door. Its intelligence is trapped inside a digital box.",
+  "source": "@site/docs/introduction.md",
+  "sourceDirName": ".",
+  "slug": "/introduction",
+  "permalink": "/Robotics-Book/introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Preface",
+    "permalink": "/Robotics-Book/preface"
+  },
+  "next": {
+    "title": "Course Overview",
+    "permalink": "/Robotics-Book/course-overview"
+  }
+}

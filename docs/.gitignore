@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project

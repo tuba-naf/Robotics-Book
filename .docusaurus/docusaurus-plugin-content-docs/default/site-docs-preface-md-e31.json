@@ -1,0 +1,22 @@
+{
+  "id": "preface",
+  "title": "Preface",
+  "description": "Till today, I have co-authored multiple books and crafted numerous pieces of poetry. However, this is my first book on Physical AI & Humanoid Robotics, born from countless hours of co-learning with diverse AI agents, through explorations and experimentations, constantly pushing my boundaries.",
+  "source": "@site/docs/preface.md",
+  "sourceDirName": ".",
+  "slug": "/preface",
+  "permalink": "/Robotics-Book/preface",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "preface",
+    "title": "Preface"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/Robotics-Book/introduction"
+  }
+}
